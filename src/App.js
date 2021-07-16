@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My First React App
+          My Second React Push
         </a>
       </header>
     </div>
