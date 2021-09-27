@@ -24,8 +24,4 @@ function App() {
 
 export default App;
 
-const element = /*#__PURE__*/React.createElement("h1", null, "Hello, world!");
-const container = document.getElementById('root');
-ReactDOM.render(element, container);
-
 
